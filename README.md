@@ -3,7 +3,7 @@ A small and portable data acquisition system based on the PyBoard V1.1 designed 
 
 ## About
 The Mountain Bike Data Acquisition System (MTB DAQ) is a system designed to collect acceleration data while riding a mountain bike.
-The system was designed as part of a Cal Poly Masters Thesis in Mechanical Engineering focused on quantitatively tuning mountain bike suspension. The MTB DAQ
+The system was designed as part of a Cal Poly Masters Thesis in Mechanical Engineering focused on a quantitative method for tuning mountain bike suspension. The MTB DAQ
 was designed after the PyBoard V1.1 and is utilizes the same firmware. The acceleration data is stored in binary format on a Micro SD card. 
 
 ## Contents
