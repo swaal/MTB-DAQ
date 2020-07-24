@@ -17,8 +17,8 @@ This folder contains the micropython files that run the MTB DAQ. Note that some 
 A copy of the compatible PyBoard V1.1 firmware.
 
 ## Technical Specifications
-Accelerometers: Analog Devices ADXL375BCCZ Accelerometer
-Number of Accelerometers Supported: 2
-Measurement Range: +/- 200g
-Output Data Rate: 1600Hz (can be configured to go up to 3200Hz)
-Battery Life: > 8 hours
+*Accelerometers: Analog Devices ADXL375BCCZ Accelerometer
+*Number of Accelerometers Supported: 2
+*Measurement Range: +/- 200g
+*Output Data Rate: 1600Hz (can be configured to go up to 3200Hz)
+*Battery Life: > 8 hours
